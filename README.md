@@ -16,13 +16,6 @@
 
 <h2>Actions and Observations</h2>
 
-![image](https://github.com/AdamDCollins7/Create-Virtual-Machine-in-Azure/assets/99514625/bc6e3482-879d-4301-844d-081646b1d5b6)
-
-
-<p>
-This is the starting ip address before we go on to set up our VPN
-</p>
-<br />
 
 <![image](https://github.com/AdamDCollins7/Create-Virtual-Machine-in-Azure/assets/99514625/da37e4e8-1f8b-4963-ae86-195527f034dd)
 
