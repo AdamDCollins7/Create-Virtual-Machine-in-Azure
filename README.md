@@ -14,14 +14,6 @@
 - Windows 10 (21H2)
 
 
-
-<h2>High-Level Steps</h2>
-
-- Step 1
-- Step 2
-- Step 3
-- Step 4
-
 <h2>Actions and Observations</h2>
 
 ![image](https://github.com/AdamDCollins7/Create-Virtual-Machine-in-Azure/assets/99514625/bc6e3482-879d-4301-844d-081646b1d5b6)
@@ -35,47 +27,37 @@ This is the starting ip address before we go on to set up our VPN
 <![image](https://github.com/AdamDCollins7/Create-Virtual-Machine-in-Azure/assets/99514625/da37e4e8-1f8b-4963-ae86-195527f034dd)
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next I created a virtual machine and used it's public IP address to login to remote desktop
 </p>
 <br />
 
-![image](https://github.com/AdamDCollins7/Create-Virtual-Machine-in-Azure/assets/99514625/32d02e1f-ded7-4b7f-804f-eef859ece795)
+![image](https://github.com/AdamDCollins7/Create-Virtual-Machine-in-Azure/assets/99514625/2a3d5a58-3bef-4f4d-86c2-9c2064effd6f)
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Logged into remote desktop to get started on connecting the VPN.
 </p>
 <br />
 
-![image](https://github.com/AdamDCollins7/Create-Virtual-Machine-in-Azure/assets/99514625/7b6d441b-26f4-4735-8796-700b773a0978)
-
-
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
 ![image](https://github.com/AdamDCollins7/Create-Virtual-Machine-in-Azure/assets/99514625/3d9001d8-47fd-4c6c-8357-c10bb582c979)
 
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I used Proton as my free VPN and downloaded the windows version
 </p>
 <br />
+
 ![image](https://github.com/AdamDCollins7/Create-Virtual-Machine-in-Azure/assets/99514625/99537ebd-c1ab-4c64-b1fa-0304ce9c2185)
 
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After downloading Proton I opened it and then logged into my username and password. At this point I had not connected with the VPN.
 </p>
 <br />
 
 ![image](https://github.com/AdamDCollins7/Create-Virtual-Machine-in-Azure/assets/99514625/6ab81e77-4f5d-4856-a979-d5839d2d471c)
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I connected and used a virtual tunnel as if I were Osaka Japan.
 </p>
 <br />
