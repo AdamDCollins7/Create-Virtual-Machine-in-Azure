@@ -58,6 +58,10 @@ After downloading Proton I opened it and then logged into my username and passwo
 ![image](https://github.com/AdamDCollins7/Create-Virtual-Machine-in-Azure/assets/99514625/6ab81e77-4f5d-4856-a979-d5839d2d471c)
 
 <p>
-I connected and used a virtual tunnel as if I were Osaka Japan.
+I connected and used a virtual tunnel as if I were Tokyo Japan.
 </p>
 <br />
+
+![image](https://github.com/AdamDCollins7/Create-Virtual-Machine-in-Azure/assets/99514625/cc90a164-4674-43e9-8811-f0c7f0d6bdf5)
+
+<p>Here is the final IP address using the Proton VPN</p>
