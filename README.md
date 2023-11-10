@@ -1,8 +1,3 @@
-<p align="center">
-<img src="![image](https://github.com/AdamDCollins7/Create-Virtual-Machine-in-Azure/assets/99514625/d7bd7556-cbc7-45fa-96b1-3eaa1c235075)
-" alt="Traffic Examination"/>
-</p>
-
 <h1>VPN Setup and Usage</h1>
  In this tutorial we are going to set up a VPN in using Proton and Microsoft Azure<br />
 
